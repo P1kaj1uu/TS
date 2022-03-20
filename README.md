@@ -7,13 +7,13 @@ A doc to learn TypeScript.
 
 | **学习内容**                                                 | **更新时间** | **备注**                                            |
 | ------------------------------------------------------------ | ------------ | --------------------------------------------------- |
-| [TypeScript中的基本类型](https://github.com/P1kaj1uu/TypeScript/tree/main/study/%E5%9F%BA%E6%9C%AC%E7%B1%BB%E5%9E%8B) | 2022-3-18   |                                                     |
+| [基本类型](https://github.com/P1kaj1uu/TypeScript/tree/main/study/%E5%9F%BA%E6%9C%AC%E7%B1%BB%E5%9E%8B) | 2022-3-18   |                                                     |
 | [编译选项](https://github.com/P1kaj1uu/TypeScript/tree/main/study/%E7%BC%96%E8%AF%91%E9%80%89%E9%A1%B9) | 2022-3-18   |                                                     |
-| [TypeScript打包](https://github.com/P1kaj1uu/TypeScript/tree/main/study/%E6%89%93%E5%8C%85%E9%85%8D%E7%BD%AE) | 2022-3-18   | Webpack整合<br />Babel整合                          |
+| [打包配置](https://github.com/P1kaj1uu/TypeScript/tree/main/study/%E6%89%93%E5%8C%85%E9%85%8D%E7%BD%AE) | 2022-3-18   | Webpack整合<br />Babel整合                          |
 | [面向对象](https://github.com/P1kaj1uu/TypeScript/tree/main/study/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1) | 2022-3-18   | class、构造器、继承<br />supuer、抽象类、封装<br /> |
 | [接口](https://github.com/P1kaj1uu/TypeScript/tree/main/study/%E6%8E%A5%E5%8F%A3) | 2022-3-18   |                                                     |
 | [泛型](https://github.com/P1kaj1uu/TypeScript/tree/main/study/%E6%B3%9B%E5%9E%8B) | 2022-3-18   |                                                     |
-| [贪吃蛇小游戏](https://github.com/P1kaj1uu/TypeScript) | 2022-3-19   |                                                     |
+| [贪吃蛇](https://github.com/P1kaj1uu/TypeScript) | 2022-3-19   |                                                     |
 
 **其他学习：**
 
