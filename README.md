@@ -7,7 +7,7 @@ A doc to learn TypeScript.
 
 | **学习内容**                                                 | **更新时间** | **备注**                                            |
 | ------------------------------------------------------------ | ------------ | --------------------------------------------------- |
-| [TypeScript中的基本类型](https://github.com/P1kaj1uu/TypeScript/blob/type/README.md) | 2022-3-18   |                                                     |
+| [TypeScript中的基本类型](https://github.com/P1kaj1uu/TypeScript/tree/main/study/%E5%9F%BA%E6%9C%AC%E7%B1%BB%E5%9E%8B) | 2022-3-18   |                                                     |
 | [编译选项](https://github.com/P1kaj1uu/TypeScript/blob/options/README.md) | 2022-3-18   |                                                     |
 | [TypeScript打包](https://github.com/P1kaj1uu/TypeScript/blob/webpack/README.md) | 2022-3-18   | Webpack整合<br />Babel整合                          |
 | [面向对象](https://github.com/P1kaj1uu/TypeScript/blob/OOP/README.md) | 2022-3-18   | class、构造器、继承<br />supuer、抽象类、封装<br /> |
