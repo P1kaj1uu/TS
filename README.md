@@ -13,7 +13,7 @@ A doc to learn TypeScript.
 | [面向对象](https://github.com/P1kaj1uu/TypeScript/tree/main/study/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1) | 2022-3-18   | class、构造器、继承<br />supuer、抽象类、封装<br /> |
 | [接口](https://github.com/P1kaj1uu/TypeScript/tree/main/study/%E6%8E%A5%E5%8F%A3) | 2022-3-18   |                                                     |
 | [泛型](https://github.com/P1kaj1uu/TypeScript/tree/main/study/%E6%B3%9B%E5%9E%8B) | 2022-3-18   |                                                     |
-| [贪吃蛇小游戏](https://github.com/P1kaj1uu/TypeScript/tree/play-snake) | 2022-3-19   |                                                     |
+| [贪吃蛇小游戏](https://github.com/P1kaj1uu/TypeScript) | 2022-3-19   |                                                     |
 
 **其他学习：**
 
