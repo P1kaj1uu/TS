@@ -11,7 +11,7 @@ A doc to learn TypeScript.
 | [编译选项](https://github.com/P1kaj1uu/TypeScript/blob/options/README.md) | 2022-3-18   |                                                     |
 | [TypeScript打包](https://github.com/P1kaj1uu/TypeScript/tree/main/study/%E6%89%93%E5%8C%85%E9%85%8D%E7%BD%AE) | 2022-3-18   | Webpack整合<br />Babel整合                          |
 | [面向对象](https://github.com/P1kaj1uu/TypeScript/blob/OOP/README.md) | 2022-3-18   | class、构造器、继承<br />supuer、抽象类、封装<br /> |
-| [接口](https://github.com/P1kaj1uu/TypeScript/blob/interface/README.md) | 2022-3-18   |                                                     |
+| [接口](https://github.com/P1kaj1uu/TypeScript/tree/main/study/%E6%8E%A5%E5%8F%A3) | 2022-3-18   |                                                     |
 | [泛型](https://github.com/P1kaj1uu/TypeScript/blob/generic/README.md) | 2022-3-18   |                                                     |
 | [贪吃蛇小游戏](https://github.com/P1kaj1uu/TypeScript/tree/play-snake) | 2022-3-19   |                                                     |
 
